@@ -41,12 +41,17 @@ Oi, eu sou a **Isabelle**!
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/isabelle-moreira-0ab660359">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="mailto:isamoreira280554@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/isabelle-moreira-0ab660359"> 
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/> 
+</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="mailto:isamoreira280554@gmail.com"> 
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/> 
+</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.hackerrank.com/profile/isamoreira280554"> 
+  <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
+</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://leetcode.com/u/bellemoreira/"> 
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=LeetCode&logoColor=white"/> 
 </a>
 
 </div>
