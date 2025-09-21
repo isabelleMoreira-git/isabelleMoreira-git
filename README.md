@@ -22,8 +22,8 @@
 
 ## 📊 Minhas estatísticas no GitHub
 
-![Isabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Isabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=tokyonight)
 
 ---
 
