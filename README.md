@@ -22,8 +22,8 @@ Oi, eu sou a **Isabelle**!
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula"/>
 </div>
 
 ---
