@@ -1,8 +1,9 @@
 # 🌟 Bem-vindo ao meu GitHub!  
 
-Oi, eu sou a **Isabelle**!  
+Oi, eu sou a **Isabelle Moreira**!  
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** (2º período)  
-📚 Formada em Técnico de Tecnologia da Informação pelo SENAI São Gonçalo   
+📚 Formada em Técnico de Tecnologia da Informação pelo SENAI São Gonçalo  
+💬 Test of English for International Communication (TOEIC) - Listening: 480/495 Reading: 450/495  
 🚀 Em busca da minha primeira oportunidade de estágio onde eu possa evoluir e aplicar meus conhecimentos 
 
 ---
@@ -58,4 +59,4 @@ Oi, eu sou a **Isabelle**!
 
 ---
 
-✨ *“A cada linha de código, um passo mais perto de realizar meus objetivos!”* ✨
+*“Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão. - Rafael Lain”*
