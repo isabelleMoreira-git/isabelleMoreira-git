@@ -1,6 +1,5 @@
-# 🌟 Bem-vindo ao meu GitHub!  
+# 🌟 Olá, eu sou a Isabelle Moreira!   
 
-Oi, eu sou a **Isabelle Moreira**!  
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** (2º período)  
 📚 Formada em Técnico de Tecnologia da Informação pelo SENAI São Gonçalo  
 💬 Test of English for International Communication (TOEIC) - Listening: 480/495 Reading: 450/495  
@@ -25,8 +24,8 @@ Oi, eu sou a **Isabelle Moreira**!
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
 </div>
 
 ---
