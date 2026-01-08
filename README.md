@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+a+Isabelle!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+a+Isabelle!+" alt="Typing SVG">
   </a>
 </div> 
 
@@ -34,12 +34,25 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em Destaque
 
-🎯 **Jogo do Número Secreto**  
-- Repositório: [GitHub](https://github.com/isabelleMoreira-git/jogo-do-numero-secreto-2.git)  
-- Teste online: [Vercel](https://jogo-do-numero-secreto-2-eight.vercel.app)  
-- Tecnologias: HTML, CSS, JavaScript
+### Lógica e Algoritmos
+- **Amigo Secreto**  
+  Aplicação em JavaScript para sorteio automático de participantes, com validações e embaralhamento.  
+  🔗 [GitHub](https://github.com/isabelleMoreira-git/AMIGO-SECRETO-ALURA.git) | 🌐 [Vercel](amigo-secretoalura-eight.vercel.app)
+
+- **Jogo do Número Secreto**  
+  Jogo interativo para praticar lógica de programação e manipulação do DOM.  
+  🔗 [GitHub](https://github.com/isabelleMoreira-git/Jogo-Do-Numero-Secreto-2-ALURA.git) | 🌐 [Vercel](jogo-do-numero-secreto-2-eight.vercel.app)
+
+### Aplicações Web
+- 🛒 **Carrinho de Compras**  
+  Simulação de um carrinho com cálculo de valores e interação do usuário.  
+  🔗 [GitHub](https://github.com/isabelleMoreira-git/CARRINHO-DE-COMPRAS-ALURA.git) | 🌐 [Vercel](carrinho-de-comprasalura.vercel.app)
+
+- **Ingressos Online**  
+  Sistema simples de compra de ingressos com controle de quantidade disponível.  
+  🔗 [GitHub](https://github.com/isabelleMoreira-git/INGRESSO-ONLINE-ALURA.git) | 🌐 [Vercel](ingresso-onlinealura.vercel.app)
 
 ---
 ## 📧 Contato
