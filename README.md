@@ -1,8 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+a+Isabelle!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&repeat=false&color=A020F0&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+a+Isabelle!+" alt="Typing SVG">
   </a>
+</div>
+
+<!-- teste 1 de subtitulo!
 </div> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&color=FF1D8D&center=true&vCenter=true&repeat=false&width=420&lines=Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG">
+</div> 
+-->
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** (3º período)  
 📚 Formada em Técnico de Tecnologia da Informação pelo SENAI São Gonçalo  
@@ -25,6 +32,14 @@
 
 ---
 
+## 📊 Minhas estatísticas no GitHub
+
+<div align="center">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula"/>
+</div>
+
+---
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
