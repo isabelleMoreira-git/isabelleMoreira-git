@@ -20,12 +20,13 @@
 
 ## 🔧 Tecnologias que tive contato:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
@@ -35,7 +36,8 @@
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
+  <!--<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
+  -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=300&lines=Fetching+GitHub+Stats...;Turning+coffe+into+code...;Loading..." />
   <!--<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula"/> 
   -->
@@ -52,24 +54,26 @@
 ---
 
 ## Projetos em Destaque
+> Atualmente com foco em **Análise de Dados e Back-end**, mantendo projetos em front-end como base de lógica e fundamentos.
+###  Análise de Dados (Python)
+- **Análise Descritiva — PNAD 2015**  
+  Análise estatística descritiva de dados socioeconômicos da PNAD 2015, utilizando Python para exploração, visualização e extração de insights.  
+  🔗 [GitHub](https://github.com/isabelleMoreira-git/analise-descritiva-pnad-2015) |📓 [Visualizar Notebook (NBViewer)](https://nbviewer.org/github/isabelleMoreira-git/analise-descritiva-pnad-2015/blob/main/An%C3%A1lise_Descritiva.ipynb)
 
-### Lógica e Algoritmos
+
+---
+
+###  Lógica e Algoritmos
 - **Amigo Secreto**  
   Aplicação em JavaScript para sorteio automático de participantes, com validações e embaralhamento.  
-  🔗 [GitHub](https://github.com/isabelleMoreira-git/AMIGO-SECRETO-ALURA.git) | 🌐 [Vercel](amigo-secretoalura-eight.vercel.app)
+  🔗 [GitHub](https://github.com/isabelleMoreira-git/AMIGO-SECRETO-ALURA.git) | 🌐 [Vercel](https://amigo-secretoalura-eight.vercel.app)
 
-- **Jogo do Número Secreto**  
-  Jogo interativo para praticar lógica de programação e manipulação do DOM.  
-  🔗 [GitHub](https://github.com/isabelleMoreira-git/Jogo-Do-Numero-Secreto-2-ALURA.git) | 🌐 [Vercel](jogo-do-numero-secreto-2-eight.vercel.app)
+---
 
 ### Aplicações Web
 - 🛒 **Carrinho de Compras**  
   Simulação de um carrinho com cálculo de valores e interação do usuário.  
-  🔗 [GitHub](https://github.com/isabelleMoreira-git/CARRINHO-DE-COMPRAS-ALURA.git) | 🌐 [Vercel](carrinho-de-comprasalura.vercel.app)
-
-- **Ingressos Online**  
-  Sistema simples de compra de ingressos com controle de quantidade disponível.  
-  🔗 [GitHub](https://github.com/isabelleMoreira-git/INGRESSO-ONLINE-ALURA.git) | 🌐 [Vercel](ingresso-onlinealura.vercel.app)
+  🔗 [GitHub](https://github.com/isabelleMoreira-git/CARRINHO-DE-COMPRAS-ALURA.git) | 🌐 [Vercel](https://carrinho-de-comprasalura.vercel.app)
 
 ---
 ## 📧 Contato
