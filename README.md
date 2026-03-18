@@ -56,7 +56,7 @@
 ## Projetos em Destaque
 > Atualmente com foco em **Análise de Dados e Back-end**, mantendo projetos em front-end como base de lógica e fundamentos.
 
-### • Análise Descritiva — PNAD 2015 (Python)** 
+### • Análise Descritiva — PNAD 2015 (Python)
   Análise estatística descritiva de dados socioeconômicos da PNAD 2015, utilizando Python para exploração, visualização e extração de insights.  
   🔗 [GitHub](https://github.com/isabelleMoreira-git/analise-descritiva-pnad-2015) |📓 [Visualizar Notebook (NBViewer)](https://nbviewer.org/github/isabelleMoreira-git/analise-descritiva-pnad-2015/blob/main/An%C3%A1lise_Descritiva.ipynb)
 
