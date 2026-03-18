@@ -18,7 +18,7 @@
 
 ---
 
-## 🔧 Tecnologias que tive contato:
+## Tecnologias que tive contato:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -33,14 +33,14 @@
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## Minhas estatísticas no GitHub
 
 <div align="center">
-  <!--<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
-  -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=300&lines=Fetching+GitHub+Stats...;Turning+coffe+into+code...;Loading..." />
-  <!--<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula"/> 
-  -->
+  <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=300&lines=Fetching+GitHub+Stats...;Turning+coffe+into+code...;Loading..." />
+  Usar quando as estatisticas estiverem fora do ar-->
+  
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula"/> 
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
 </div>
 
 ---
@@ -55,23 +55,20 @@
 
 ## Projetos em Destaque
 > Atualmente com foco em **Análise de Dados e Back-end**, mantendo projetos em front-end como base de lógica e fundamentos.
-###  Análise de Dados (Python)
-- **Análise Descritiva — PNAD 2015**  
+
+### • Análise Descritiva — PNAD 2015 (Python)** 
   Análise estatística descritiva de dados socioeconômicos da PNAD 2015, utilizando Python para exploração, visualização e extração de insights.  
   🔗 [GitHub](https://github.com/isabelleMoreira-git/analise-descritiva-pnad-2015) |📓 [Visualizar Notebook (NBViewer)](https://nbviewer.org/github/isabelleMoreira-git/analise-descritiva-pnad-2015/blob/main/An%C3%A1lise_Descritiva.ipynb)
 
-
 ---
 
-###  Lógica e Algoritmos
-- **Amigo Secreto**  
+### • Amigo Secreto
   Aplicação em JavaScript para sorteio automático de participantes, com validações e embaralhamento.  
   🔗 [GitHub](https://github.com/isabelleMoreira-git/AMIGO-SECRETO-ALURA.git) | 🌐 [Vercel](https://amigo-secretoalura-eight.vercel.app)
 
 ---
 
-### Aplicações Web
-- 🛒 **Carrinho de Compras**  
+### • Carrinho de Compras
   Simulação de um carrinho com cálculo de valores e interação do usuário.  
   🔗 [GitHub](https://github.com/isabelleMoreira-git/CARRINHO-DE-COMPRAS-ALURA.git) | 🌐 [Vercel](https://carrinho-de-comprasalura.vercel.app)
 
