@@ -1,24 +1,24 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&repeat=false&color=A020F0&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+a+Isabelle!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&repeat=false&color=A020F0&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+a+Isabelle!+" alt="Typing SVG - Isabelle Moreira Maciel">
   </a>
 </div>
 
 <!-- teste 1 de subtitulo!
-</div> 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&color=FF1D8D&center=true&vCenter=true&repeat=false&width=420&lines=Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG">
 </div> 
 -->
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas** (3º período)  
-📚 Formada em Técnico de Tecnologia da Informação pelo SENAI São Gonçalo  
-💬 Test of English for International Communication (TOEIC) - Listening: 480/495 Reading: 450/495  
-🚀 Em busca da minha primeira oportunidade de estágio onde eu possa evoluir e aplicar meus conhecimentos 
+💻 **Estagiária Back-End Java no PagBank**  
+🎓 Análise e Desenvolvimento de Sistemas – 3º período  
+📚 Técnica em Tecnologia da Informação – SENAI São Gonçalo  
+💬 Test of English for International Communication (TOEIC) - 930  
+☕ Aprendendo: Java | Spring Boot | APIs | Kotlin | Docker | Oracle | Sybase | Cassandra  
 
 ---
 
-## Tecnologias que tive contato:
+## Tecnologias que  já utilizei:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -33,14 +33,19 @@
 
 ---
 
-## Minhas estatísticas no GitHub
+## Minhas Estatísticas no GitHub
 
 <div align="center">
-  <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=300&lines=Fetching+GitHub+Stats...;Turning+coffe+into+code...;Loading..." />
-  Usar quando as estatisticas estiverem fora do ar-->
+  
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=300&lines=Fetching+GitHub+Stats...;Turning+coffe+into+code...;Loading..." />
+  Usar quando as estatisticas estiverem fora do ar
+  -->
   
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula"/> 
+  <!-- Estatistica de sequencia do github. Substituir por alguma das atuais? (3 estatísticas deixa o design poluido demais) 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=isabelleMoreira-git&theme=dracula&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+  -->
 </div>
 
 ---
@@ -54,11 +59,11 @@
 ---
 
 ## Projetos em Destaque
-> Atualmente com foco em **Análise de Dados e Back-end**, mantendo projetos em front-end como base de lógica e fundamentos.
+>Atualmente focada em **desenvolvimento Back-end e engenharia de software**, mantendo projetos em front-end como base de lógica e fundamentos.
 
 ### • Análise Descritiva — PNAD 2015 (Python)
-  Análise estatística descritiva de dados socioeconômicos da PNAD 2015, utilizando Python para exploração, visualização e extração de insights.  
-  🔗 [GitHub](https://github.com/isabelleMoreira-git/analise-descritiva-pnad-2015) |📓 [Visualizar Notebook (NBViewer)](https://nbviewer.org/github/isabelleMoreira-git/analise-descritiva-pnad-2015/blob/main/An%C3%A1lise_Descritiva.ipynb)
+  Exploração e análise estatística de dados socioeconômicos da PNAD 2015 usando Python.
+  🔗 [GitHub](https://github.com/isabelleMoreira-git/analise-descritiva-pnad-2015) | 📓 [Visualizar Notebook (NBViewer)](https://nbviewer.org/github/isabelleMoreira-git/analise-descritiva-pnad-2015/blob/main/An%C3%A1lise_Descritiva.ipynb)
 
 ---
 
