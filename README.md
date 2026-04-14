@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&repeat=false&color=A020F0&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+a+Isabelle!+" alt="Typing SVG - Isabelle Moreira Maciel">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&repeat=false&color=A020F0&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+a+Isabelle!" alt="Typing SVG - Isabelle Moreira Maciel">
   </a>
 </div>
 
@@ -37,13 +37,16 @@
 
 <div align="center">
   
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=300&lines=Fetching+GitHub+Stats...;Turning+coffe+into+code...;Loading..." />
-  Usar quando as estatisticas estiverem fora do ar
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=300&lines=Fetching+GitHub+Stats...;Turning+coffe+into+code...;Loading..." />
+  <!-- Usar quando as estatisticas estiverem fora do ar
   -->
-  
+
+  <!-- Minhas estátisticas
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula"/> 
-  <!-- Estatistica de sequencia do github. Substituir por alguma das atuais? (3 estatísticas deixa o design poluido demais) 
+  -->
+  
+  <!-- Estatistica de sequencia do github. Substituir por alguma das atuais? (3 estatísticas deixa o design poluido demais?) 
   [![GitHub Streak](https://streak-stats.demolab.com?user=isabelleMoreira-git&theme=dracula&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
   -->
 </div>
