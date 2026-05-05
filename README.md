@@ -36,15 +36,15 @@
 ## Minhas Estatísticas no GitHub
 
 <div align="center">
-  
+  <!--
+   Usar quando as estatisticas estiverem fora do ar
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=300&lines=Fetching+GitHub+Stats...;Turning+coffe+into+code...;Loading..." />
-  <!-- Usar quando as estatisticas estiverem fora do ar
   -->
 
-  <!-- Minhas estátisticas
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula"/> 
-  -->
+
+  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula&cache_seconds=86400"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula&cache_seconds=86400&include_all_commits=true&count_private=true"/>
+
   
   <!-- Estatistica de sequencia do github. Substituir por alguma das atuais? (3 estatísticas deixa o design poluido demais?) 
   [![GitHub Streak](https://streak-stats.demolab.com?user=isabelleMoreira-git&theme=dracula&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
@@ -65,7 +65,7 @@
 >Atualmente focada em **desenvolvimento Back-end e engenharia de software**, mantendo projetos em front-end como base de lógica e fundamentos.
 
 ### • Análise Descritiva — PNAD 2015 (Python)
-  Exploração e análise estatística de dados socioeconômicos da PNAD 2015 usando Python.
+  Exploração e análise estatística de dados socioeconômicos da PNAD 2015 usando Python.  
   🔗 [GitHub](https://github.com/isabelleMoreira-git/analise-descritiva-pnad-2015) | 📓 [Visualizar Notebook (NBViewer)](https://nbviewer.org/github/isabelleMoreira-git/analise-descritiva-pnad-2015/blob/main/An%C3%A1lise_Descritiva.ipynb)
 
 ---
