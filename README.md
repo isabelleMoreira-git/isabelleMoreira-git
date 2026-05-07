@@ -42,8 +42,8 @@
   -->
 
 
-  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=dracula&cache_seconds=86400"/>
-  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=dracula&cache_seconds=86400&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api/top-langs/?username=isabelleMoreira-git&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api?username=isabelleMoreira-git&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true&count_private=true"/>
 
   
   <!-- Estatistica de sequencia do github. Substituir por alguma das atuais? (3 estatísticas deixa o design poluido demais?) 
