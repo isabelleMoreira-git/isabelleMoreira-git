@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <img align="right" width="20%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+  <img align="right" width="26%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 </div>
 
 <!-- teste 1 de subtitulo!
@@ -14,6 +14,7 @@
 </div> 
 -->
 
+![](https://komarev.com/ghpvc/?username=isabelleMoreira-git&color=blueviolet&style=flat)  
 💻 **Estagiária Back-End Java no PagBank**  
 🎓 Análise e Desenvolvimento de Sistemas – 3º período  
 📚 Técnica em Tecnologia da Informação – SENAI São Gonçalo  
@@ -22,16 +23,19 @@
 
 ---
 
-## Tecnologias que  já utilizei:
+## Tecnologias com as quais já trabalhei:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
@@ -89,6 +93,8 @@
 
 > Obrigado por visitar meu perfil! Vamos conectar e compartilhar conhecimentos!
 
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/isabelle-moreira-0ab660359"> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/> 
@@ -101,6 +107,8 @@
   </a> &nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://leetcode.com/u/bellemoreira/"> 
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=LeetCode&logoColor=white"/> 
-  </a>
+  </a> 
+  <br><br>
+  <img align="center" width="26%" src="https://media1.tenor.com/m/WZCuPSuhhR8AAAAd/pixel-jeff-divoom-pixel-art.gif">
 </div>
 
