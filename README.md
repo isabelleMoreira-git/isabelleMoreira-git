@@ -4,6 +4,10 @@
   </a>
 </div>
 
+<div>
+  <img align="right" width="30%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+</div>
+
 <!-- teste 1 de subtitulo!
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&color=FF1D8D&center=true&vCenter=true&repeat=false&width=420&lines=Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG">
